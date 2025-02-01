@@ -1,0 +1,11 @@
+[package]
+name = "rook_rs"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "rook_rs"
+path = "src/main.rs"
+
+[dependencies]
+rand = "0.8.5"
